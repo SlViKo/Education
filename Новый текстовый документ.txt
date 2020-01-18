@@ -1,5 +1,0 @@
-hello world;
-Добавление новой строчки;
-hello;
-hello my dear friend;
-Glfd to see you;
